@@ -1,0 +1,28 @@
+#soyYo {
+    border: crimson;
+    height: 250px;
+    width: 100%;
+    background-color: aquamarine;
+}
+#cabezal { 
+ font-size: larger;
+ font-family:sans-serif;
+ text-align: center;
+ text-transform: uppercase;
+}
+header {
+    width: 960px;
+    margin: 0 auto;
+}
+h2.lineas {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+img {
+    float: left;
+    object-fit: cover;
+    width: 350px;
+    height: 100%;
+
+}
