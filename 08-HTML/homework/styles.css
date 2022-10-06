@@ -11,7 +11,10 @@
         font-size: 18px; margin: 50px; 
             }
     body {
-        background-image: url(https://wallpaperaccess.com/full/1463531.jpg); justify-content: center;
+        background-image: url(https://wallpaperaccess.com/full/1463531.jpg);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         }
     div {
         text-align: center;
